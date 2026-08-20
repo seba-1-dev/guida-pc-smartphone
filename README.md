@@ -69,24 +69,7 @@ Il PDF è certificato con hash SHA-256 e marcato temporalmente su blockchain Bit
 
 ```
 SHA-256: 73d742ed8c8d7ab7e8879b3f7fa57237acb614d8b0906d95456053c3f9cce86e
-```
 
-**Verificare l'integrità del file scaricato:**
-
-```bash
-sha256sum PC-e-Smartphone-senza-Problemi.pdf
-```
-
-Il risultato deve coincidere con l'hash indicato sopra e con il contenuto di `SHA256SUMS.txt`.
-
-**Verificare la marca temporale:**
-
-```bash
-pip install opentimestamps-client
-ots verify PC-e-Smartphone-senza-Problemi.pdf.ots
-```
-
-Se l'hash non coincide, il file è stato modificato rispetto all'originale pubblicato qui.
 
 ---
 
