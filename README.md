@@ -85,9 +85,7 @@ Apri una [issue](../../issues): le segnalazioni rendono migliore la versione suc
 
 Distribuito con licenza [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it).
 
-Puoi scaricarlo, leggerlo e condividerlo liberamente, citando l'autore. Non puoi venderlo né distribuirne versioni modificate.
 
----
 
 **Sebastiano Caio** — Prima edizione, agosto 2026
 
