@@ -15,19 +15,13 @@ Un manuale pratico per proteggere, mantenere e riparare PC e smartphone, pensato
 
 Copre Windows, macOS, Linux, iPhone e Android, con procedure passo-passo da seguire mentre hai il problema davanti — non spiegazioni teoriche da cui ricavare cosa fare.
 
-Il vincolo che mi sono dato è uno solo: **solo strumenti gratuiti**, verificati uno per uno sulla documentazione ufficiale del produttore. Dove uno strumento gratuito ha dei limiti, il manuale lo dice invece di nasconderlo.
-
----
+Il vincolo che mi sono dato è uno solo: **solo strumenti gratuiti**
 
 ## Perché un'altra guida
 
 Di guide su "come velocizzare il PC" o "come recuperare i file cancellati" ce ne sono migliaia. Il problema non è la quantità: è che **invecchiano male e nessuno le aggiorna**.
 
-Mentre scrivevo ho verificato ogni singolo strumento citato sulla sua pagina ufficiale, non su altre guide. Il risultato è che diversi consigli dati per assodati in rete oggi sono semplicemente sbagliati: software non più scaricabili, piani gratuiti nel frattempo ridimensionati, strumenti fermi da anni che sull'hardware attuale non funzionano più — e che continuano a essere consigliati ovunque.
 
-Da qui il criterio di questo manuale: se uno strumento è citato, è stato verificato. Se ha dei limiti, sono scritti. Se esiste un'alternativa più libera, è indicata.
-
----
 
 ## Cosa contiene
 
