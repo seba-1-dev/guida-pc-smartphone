@@ -52,33 +52,8 @@ In chiusura: **audit degli strumenti** citati, **glossario essenziale** e **note
 
 ---
 
-## Da dove iniziare
-
-**Hai un problema specifico?** Vai direttamente al capitolo che lo riguarda: sono autosufficienti, non serve aver letto i precedenti.
-
-| Situazione | Capitolo |
-|---|---|
-| Dispositivo nuovo o appena resettato | **01** (PC) o **02** (smartphone) |
-| È lento e non so perché | **09**, poi **08** |
-| Sospetto un virus | **10** (PC) o **02** (smartphone) |
-| Ho perso dei file | **12** — *fermati e leggi "Regola numero uno" prima di installare qualsiasi cosa* |
-| Password dimenticata | **11** |
-| Sto per vendere o buttare un dispositivo | **14** |
-
-**Vuoi solo mettere tutto in sicurezza con calma?** In quest'ordine: capitolo **03** (password manager e 2FA — se ne leggi uno solo, leggi questo), poi **01** o **02**, poi **04**, **06**, **07**.
-
----
-
 ## Gratuito e open source non sono la stessa cosa
 
-Una distinzione che nel manuale è tenuta rigorosamente, perché fa differenza:
-
-- **Gratuito** — non costa nulla, ma può essere proprietario e a codice chiuso
-- **Open source** — il codice è pubblico e verificabile, ma non è detto che tutto sia gratuito
-
-Nel manuale ogni strumento è etichettato per quello che è. Nessuno è definito open source solo perché è gratis.
-
----
 
 ## Avvertenze
 
