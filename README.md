@@ -7,11 +7,7 @@
 
 [![Licenza: CC BY-NC-ND 4.0](https://img.shields.io/badge/licenza-CC%20BY--NC--ND%204.0-b8862e.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it)
 
-### [⬇ Scarica il manuale (PDF)](PC-e-Smartphone-senza-Problemi.pdf)
 
-https://raw.githubusercontent.com/seba-1-dev/guida-pc-smartphone/main/PC-e-Smartphone-senza-Problemi.pdf
-
----
 
 ## Di cosa si tratta
 
