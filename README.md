@@ -22,7 +22,6 @@ Il vincolo che mi sono dato è uno solo: **solo strumenti gratuiti**
 Di guide su "come velocizzare il PC" o "come recuperare i file cancellati" ce ne sono migliaia. Il problema non è la quantità: è che **invecchiano male e nessuno le aggiorna**.
 
 
-
 ## Cosa contiene
 
 | | Capitolo |
